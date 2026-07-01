@@ -91,23 +91,6 @@ La dashboard permette di esplorare i dati attraverso filtri interattivi
 
 ---
 
-## 📂 Struttura del repository
-
-Global-Layoffs-Analysis
-│
-├── Analisi_Licenziamenti_2020-2025.xlsx
-├── README.md
-
----
-
-## 📷 Dashboard Preview
-
-
-
-
-
----
-
 ## 🚀 Cosa ho imparato
 
 Attraverso questo progetto ho avuto modo di consolidare competenze pratiche nella Data Analytics tra cui:
