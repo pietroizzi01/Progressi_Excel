@@ -93,7 +93,6 @@ La dashboard permette di esplorare i dati attraverso filtri interattivi
 
 ## 📂 Struttura del repository
 
-```
 Global-Layoffs-Analysis
 │
 ├── Analisi_Licenziamenti_2020-2025.xlsx
